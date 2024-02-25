@@ -1,0 +1,14 @@
+numpy
+pandas
+pip-chill==1.0.1
+tensorflow
+matplotlib
+seaborn
+nltk
+regex
+scikit-learn
+from-root
+fastapi
+uvicorn
+Jinja2
+-e .
